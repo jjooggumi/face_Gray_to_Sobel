@@ -1,4 +1,11 @@
 ## 소프트웨어 요구사항 표준 (SRS)
+
+[face.bmp](https://github.com/user-attachments/files/22039297/face.bmp)
+
+[face_grayscale.bmp](https://github.com/user-attachments/files/22039300/face_grayscale.bmp)
+
+[face_output_edge.bmp](https://github.com/user-attachments/files/22039301/face_output_edge.bmp)
+
 ### 1. 상위레벨 요구사항
 **HLR-001**: 이미지 형식 검증
 - 소프트웨어는 입력 파일이 24비트 BMP 형식임을 검증해야 한다
