@@ -92,15 +92,15 @@ BMP__Processor
 - 크기: 630*630 픽셀
 
 **출력 인터페이스:**
-  - **파일명: "face_grayscale.bmp"**
+- **파일명: "face_grayscale.bmp"**
   - 형식: 8비트 그레이스케일 BMP
   - 팔레트: 256색 그레이스케일
 
-  - **파일명: "face_output_edge.bmp"**
+- **파일명: "face_output_edge.bmp"**
   - 형식: 8비트 Sobel 필터링 적용 BMP
   - 내용: 엣지(색변화 큰곳)을 두각시킨 이미지
 
-  - **파일명: "face_output_image.mem"**
+- **파일명: "face_output_image.mem"**
   - 형식: 그레이스케일 BMP를 아스키 코드 형태로 저장한 텍스트 기반 파일
 
 ## 소프트웨어 코드 표준 (SCS)
