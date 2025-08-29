@@ -1,4 +1,8 @@
-## 소프트웨어 요구사항 표준 (SRS)
+### 문서 관리 정보
+- 문서 ID: BMP-DO178C-001
+- 버전/ 날짜: 1.0 / 2025년 8월 29일
+- 분류: 설계 보증 레벨 D (DAL-D)
+- 시스템: 휴대폰 안면 인식 장치
 
 [face.bmp](https://github.com/user-attachments/files/22039297/face.bmp)
 
@@ -6,11 +10,7 @@
 
 [face_output_edge.bmp](https://github.com/user-attachments/files/22039301/face_output_edge.bmp)
 
-### 문서 관리 정보
-- 문서 ID: BMP-DO178C-001
-- 버전/ 날짜: 1.0 / 2025년 8월 29일
-- 분류: 설계 보증 레벨 D (DAL-D)
-- 시스템: 휴대폰 안면 인식 장치
+## 소프트웨어 요구사항 표준 (SRS)
 
 ### 1. 상위레벨 요구사항
 **HLR-001**: 이미지 형식 검증
