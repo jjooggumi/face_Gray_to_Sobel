@@ -1,9 +1,9 @@
-input: [face.bmp](https://github.com/user-attachments/files/22039297/face.bmp)
+<img width="320" height="320" alt="face" src= "https://github.com/user-attachments/assets/74e8b490-f7d8-40c3-afae-51649b9db19f" /> face
 
-output1: [face_grayscale.bmp](https://github.com/user-attachments/files/22039300/face_grayscale.bmp)
 
-output2: [face_output_edge.bmp](https://github.com/user-attachments/files/22039301/face_output_edge.bmp)
+<img width="320" height="320" alt="face_grayscale" src= "https://github.com/user-attachments/assets/74cbf940-3309-412c-8a0b-914e0be30884" /> face_grayscale
 
+<img width="320" height="320" alt="face_output_edge" src= "https://github.com/user-attachments/assets/fde03702-21f6-4822-ba26-6583a727a40f" /> face_output_edge
 
 ## 문서 관리 정보
 - 문서 ID: BMP-DO178C-001
